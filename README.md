@@ -10,7 +10,7 @@
 <li>API REST</li>
 </ol> 
 
-<strike>Aula feita pelo  <b>professor Nélio da Dev Superior<b><strike>
+Aula feita pelo  <b>professor Nélio da Dev Superior<b>
  
 <h1>Foi construído um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:</h1>
 
